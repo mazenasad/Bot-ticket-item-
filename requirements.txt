@@ -1,0 +1,16 @@
+discord.py
+requests
+aiohttp
+python-dotenv
+pandas
+numpy
+beautifulsoup4
+selenium
+aiofiles
+schedule
+PyNaCl
+discord-py-interactions
+emoji
+aiohttp-socks
+pytz
+python-dateutil
